@@ -98,4 +98,4 @@ MIT License - Feel free to use this template for any client projects.
 
 ## Support
 
-For questions or support, please open an issue on GitHub or contact [your-email@example.com]. 
+For questions or support, please open an issue on GitHub or contact [your-email@example.com]. # nuventive-dashboard
